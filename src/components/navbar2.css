@@ -1,0 +1,17 @@
+.nav2{
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+    padding: 5px 0px 5px 0px;
+}
+#bb{
+    text-decoration: none;
+    color: blue;
+}
+#bb:hover{
+    color: rgb(248, 4, 17);
+}
+#scrol{
+    color: red;
+    font-weight: 300;
+}

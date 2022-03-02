@@ -1,0 +1,26 @@
+#frm{
+    padding: 5px 150px 5px 10px;
+    font-size: 25px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+#hh{
+    text-align: center;
+}
+#bt1{
+    margin-left: 190px;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 10px 5px 10px;
+    font-size: 19px;
+    color: aliceblue;
+    background-color: blue;
+}
+.log{
+    background-color: aquamarine;
+    margin-left: 480px;
+    margin-right: 500px;
+    padding: 40px;
+    border-radius: 15px;
+    margin-bottom: 80px;
+}
